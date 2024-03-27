@@ -13,7 +13,7 @@ b) 查看参数
 ### OUTPUT:
 移除隐藏表面的几个对象的彩色视图。
 
-<img src="result.png" alt="zbuffer" width="360" height="180">
+<img src="result.png" alt="zbuffer" width="300" height="310">
 
 ## 原理：
 在绘制时消除被遮挡的不可见的线或面，习惯上称作消除隐藏线和隐藏面，简称为消隐。
